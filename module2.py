@@ -1,7 +1,10 @@
 from .module1 import example
 
 print("!!!")
+print("Изменения которые будут отложены!")
+print("Изменения которые будут отложены!")
+print("Изменения которые будут отложены!")
 example()
-example()
-example()
-example()
+
+if __name__ == "__main__":
+    print("Изменения которые будут отложены!")
